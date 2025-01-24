@@ -60,7 +60,7 @@ An e-commerce platform featuring product listings, secure checkout, and a user-f
 A task management application to organize and monitor tasks efficiently.  
 - **Tech Stack**: Angular (Front End) + Laravel (Back End)  
 - **Features**: User roles, task assignment, and real-time notifications.  
-- **Link**: [View Project](#)  
+- **Link**: [https://www.youtube.com/watch?v=uwpQyfTYeJ0](#)  
 
 ### **✅ Task Management App**  
 A dynamic full-stack task management app.  
