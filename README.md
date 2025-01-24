@@ -1,9 +1,9 @@
-##💻 Aspiring MERN Stack Developer | Passionate About Web Development & Problem-Solving
+💻 ##Aspiring MERN Stack Developer | Passionate About Web Development & Problem-Solving
 
 I’m Junaid Ali, a recent BS Computer Science graduate from COMSATS University Islamabad, eager to kickstart my career in web development. My core expertise lies in MERN stack (MongoDB, Express.js, React.js, Node.js), and I am passionate about building dynamic and scalable web applications.
 
-##🔹 What I Bring:
-✔ Strong understanding of JavaScript, React.js, and Node.js
+🔹 ##What I Bring:
+✔ ##Strong understanding of JavaScript, React.js, and Node.js
 ✔ Experience with API integration & database management (MongoDB, MySQL)
 ✔ Familiarity with UI/UX principles and responsive web design
 ✔ Enthusiasm for learning and adapting to new technologies
