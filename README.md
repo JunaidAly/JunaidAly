@@ -54,7 +54,7 @@ If you're looking for a passionate and dedicated **MERN stack enthusiast** to jo
 An e-commerce platform featuring product listings, secure checkout, and a user-friendly interface.  
 - **Tech Stack**: MEAN Stack (MongoDB, Express.js, Angular, Node.js)  
 - **Features**: Product filtering, user authentication, and admin dashboard.  
-- **Link**: [View Project](#)  
+- **Link**: [View Project](https://capable-torrone-467511.netlify.app/)  
 
 ### **📋 Organization Task Tracker**  
 A task management application to organize and monitor tasks efficiently.  
