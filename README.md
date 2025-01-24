@@ -1,18 +1,18 @@
-# Hi there! 👋 I'm Junaid Ali  
+##💻 Aspiring MERN Stack Developer | Passionate About Web Development & Problem-Solving
 
-Welcome to my GitHub profile! I'm a **Full Stack Developer** and **DevOps Engineer** with a passion for building robust, scalable, and user-friendly applications. My goal is to turn ideas into reality with cutting-edge technologies and innovative designs.  
+I’m Junaid Ali, a recent BS Computer Science graduate from COMSATS University Islamabad, eager to kickstart my career in web development. My core expertise lies in MERN stack (MongoDB, Express.js, React.js, Node.js), and I am passionate about building dynamic and scalable web applications.
 
----
+##🔹 What I Bring:
+✔ Strong understanding of JavaScript, React.js, and Node.js
+✔ Experience with API integration & database management (MongoDB, MySQL)
+✔ Familiarity with UI/UX principles and responsive web design
+✔ Enthusiasm for learning and adapting to new technologies
 
-## 🚀 About Me  
-- 🔭 I’m currently working on **e-commerce and task management applications**.  
-- 🌱 I’m learning and expanding my expertise in **MEAN Stack Development**.  
-- 👯 I’m open to collaborating on exciting **web and cloud-based projects**.  
-- 💬 Ask me about **Full Stack Development, API integration, or DevOps Engineering**.  
-- ⚡ Fun fact: I love exploring new tech and solving complex problems.  
+##🔹 Looking for Opportunities:
+I am actively seeking an internship or entry-level role where I can apply my skills, contribute to meaningful projects, and grow as a developer. I thrive in collaborative environments and am eager to learn from industry professionals.
 
----
-
+##🚀 Let’s Connect!
+If you're looking for a passionate and dedicated MERN stack enthusiast to join your team, feel free to reach out!
 ## 🛠️ Tech Stack  
 
 ### **Languages & Frameworks**
