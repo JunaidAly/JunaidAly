@@ -15,7 +15,6 @@ I am actively **seeking an internship or entry-level role** where I can apply my
 If you're looking for a passionate and dedicated **MERN stack enthusiast** to join your team, feel free to reach out!
 
 ---
-## My Profolio web App Link: https://preeminent-melba-689237.netlify.app/ 
 ## 🛠️ Tech Stack  
 
 ### **Languages & Frameworks**  
@@ -73,7 +72,7 @@ A Resposive web app.
 ## 💼 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaidali)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junaidali)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://junaidali-portfolio.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]( https://preeminent-melba-689237.netlify.app/)  
 
 ---
 
