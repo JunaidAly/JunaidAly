@@ -15,7 +15,7 @@ I am actively **seeking an internship or entry-level role** where I can apply my
 If you're looking for a passionate and dedicated **MERN stack enthusiast** to join your team, feel free to reach out!
 
 ---
-
+## My Profolio web App Link: https://preeminent-melba-689237.netlify.app/ 
 ## 🛠️ Tech Stack  
 
 ### **Languages & Frameworks**  
