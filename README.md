@@ -1,80 +1,152 @@
-# 💻 Aspiring MERN Stack Developer | Passionate About Web Development & Problem-Solving
+# Hi there, I'm Junaid Ali 👋
 
-I’m **Junaid Ali**, a recent **BS Computer Science graduate from COMSATS University Islamabad**, eager to kickstart my career in web development. My core expertise lies in **MERN stack (MongoDB, Express.js, React.js, Node.js)**, and I am passionate about building dynamic and scalable web applications.
-
-## 🔹 What I Bring:
-✔ **Strong understanding of JavaScript, React.js, and Node.js**  
-✔ Experience with **API integration & database management (MongoDB, MySQL)**  
-✔ Familiarity with **UI/UX principles and responsive web design**  
-✔ Enthusiasm for **learning and adapting to new technologies**  
-
-## 🔹 Looking for Opportunities:
-I am actively **seeking an internship or entry-level role** where I can apply my skills, contribute to meaningful projects, and grow as a developer. I thrive in collaborative environments and am eager to learn from industry professionals.
-
-## 🚀 Let’s Connect!
-If you're looking for a passionate and dedicated **MERN stack enthusiast** to join your team, feel free to reach out!
+**Full Stack Developer** based in Islamabad, Pakistan, with hands-on experience building SaaS platforms, booking systems, document management tools, AR-based admin panels, and scalable web applications across the full stack.
 
 ---
-## 🛠️ Tech Stack  
 
-### **Languages & Frameworks**  
+## 🧑‍💻 About Me
+
+- 🏢 Currently working as a **Full Stack Developer at TeraBit IT Company**
+- 🎓 **BS Computer Science** – COMSATS University Islamabad
+- 🌐 Experienced in React.js, Next.js, Node.js, Laravel, Supabase, and cloud platforms
+- 🛠️ Building production-grade SaaS ecosystems, CMS websites, and enterprise web apps
+- 📫 Reach me at **junaidaly131@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Frameworks & Libraries**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### **Databases**  
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### **Cloud & DevOps**  
+### **CMS & Platforms**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidali&layout=compact&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaidali&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidAly&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JunaidAly&show_icons=true&theme=radical)
 
 ---
 
-## 🏆 My Recent Projects  
+## 🏆 Featured Projects
 
-### **🛒 E-Commerce Platform**  
-An e-commerce platform featuring product listings, secure checkout, and a user-friendly interface.  
-- **Tech Stack**: MEAN Stack (MongoDB, Express.js, Angular, Node.js)  
-- **Features**: Product filtering, user authentication, and admin dashboard.  
-- **Link**: [View Project](https://capable-torrone-467511.netlify.app/)  
-
-### **📋 Organization Task Tracker**  
-A task management application to organize and monitor tasks efficiently.  
-- **Tech Stack**: Angular (Front End) + Laravel (Back End)  
-- **Features**: User roles, task assignment, and real-time notifications.  
-- **Link**: [View Project](https://www.youtube.com/watch?v=uwpQyfTYeJ0)  
-
-### **✅ Tea Station**  
-A Resposive web app.  
-- **Tech Stack**: Html,css,js  
-- **Features**: Home, My services, and My products.  
-- **Link**: [View Project](https://snazzy-syrniki-96c61e.netlify.app/)  
+### 🗓️ Primus Booking – Multi-Platform SaaS Ecosystem
+A full booking ecosystem with Customer, Business, and Admin platforms.
+- **Tech Stack**: Next.js, TypeScript, Supabase, Tailwind CSS, shadcn/ui
+- **Features**: Supabase Auth (email, Google OAuth), role-based access control, booking & scheduling system, reward points module, Next.js App Router architecture
+- **Platforms**: Customer Portal | Business Portal | Admin Panel
 
 ---
 
-## 💼 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-ali-8679871ab/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JunaidAly)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]( https://preeminent-melba-689237.netlify.app/)  
+### 📄 Beam Balance – Document Management System
+A secure cloud-based document management platform.
+- **Tech Stack**: Next.js, AWS, TypeScript
+- **Features**: File upload/retrieval via AWS storage, admin & client dashboards, document tracking, scalable cloud architecture
 
 ---
 
-Let's build something amazing together! 🚀
+### 🖥️ AR Admin Panel
+Admin dashboard for an AR-based web application.
+- **Tech Stack**: React.js
+- **Features**: Dynamic UI components, user & content management, real-time data interaction, enterprise-scale architecture
 
+---
+
+### 🌐 TeraBit IT Company Website
+Corporate website with modern UI/UX.
+- **Tech Stack**: React.js
+- **Features**: Responsive design, performance optimization, SEO-friendly layout, modular component architecture
+- **Link**: [Live Demo](https://terabitit.com)
+
+---
+
+### 💰 Monetize 360 Global
+Marketing and lead generation website.
+- **Tech Stack**: React.js, EmailJS, Framer Motion
+- **Features**: SEO optimization, lead funnels, contact form integration, Google Ads conversion tracking
+- **Link**: [Live Demo](https://monetize360global.com)
+
+---
+
+### 🎬 Vidlo – Video Platform (WordPress)
+Full video platform website built on WordPress.
+- **Tech Stack**: WordPress, Custom Theme
+- **Features**: Responsive UI, custom page layouts, plugin integrations, SEO optimization
+- **Link**: [Live Demo](https://vidlo.video)
+
+---
+
+### 📡 Pro Content Radar – Content Marketing Platform (WordPress)
+Content marketing platform with advanced CMS customization.
+- **Tech Stack**: WordPress, Elementor
+- **Features**: Lead capture forms, analytics integration, SEO plugins, responsive layouts
+- **Link**: [Live Demo](https://procontentradar.com)
+
+---
+
+### 🎨 Gifted Curators DC – Art Curation Website (WordPress)
+Art curation website with gallery and e-commerce features.
+- **Tech Stack**: WordPress, WooCommerce
+- **Features**: Gallery layouts, event sections, cross-browser compatibility, accessibility tuning
+- **Link**: [Live Demo](https://giftedcuratorsdc.com)
+
+---
+
+### 📋 Organization Task Tracker
+Task management system with role-based access control.
+- **Tech Stack**: Angular + Laravel
+- **Features**: User roles, task assignment, tracking, and reporting
+- **Link**: [Demo Video](https://www.youtube.com/watch?v=uwpQyfTYeJ0)
+
+---
+
+### 🍵 Tea Station
+Responsive product website.
+- **Tech Stack**: HTML, CSS, JavaScript
+- **Features**: Mobile-first UI, product browsing, performance-optimized
+- **Link**: [Live Demo](https://snazzy-syrniki-96c61e.netlify.app/)
+
+---
+
+## 💼 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaid-ali-8679871ab/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JunaidAly)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://junaidaly.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidaly131@gmail.com)
+
+---
+
+*Let's build something amazing together! 🚀*
